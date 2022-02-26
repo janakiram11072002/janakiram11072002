@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, I'm Janakiram 👋
 
 
 I'm Janakiram. Currently, I am a 3rd year student at Thanthai Periyar Government Institute of Technology, Vellore.
@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src = "https://github-readme-stats.vercel.app/api?username=janakiram11072002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
